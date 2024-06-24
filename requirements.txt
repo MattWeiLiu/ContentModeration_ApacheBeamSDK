@@ -1,0 +1,4 @@
+apache-beam[gcp]==2.46.0
+google-cloud-aiplatform==1.27.0
+protobuf==3.19.6
+redis==4.5.5

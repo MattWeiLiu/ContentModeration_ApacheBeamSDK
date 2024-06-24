@@ -1,0 +1,11 @@
+python -m runner_cache \
+--input_subscription ### \
+--output_topic ### \
+--threshold ### \
+--project ### \
+--region ### \
+--temp_location ### \
+--runner DataflowRunner \
+--job_name illegal-topup-prediction \
+--service_account_email ### \
+--requirements_file ./requirements.txt
