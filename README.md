@@ -7,5 +7,3 @@
 
 ## Tutorial
 [Python SDK](url:https://cloud.google.com/dataflow/docs/guides/using-custom-containers#prebuild)
-
-
